@@ -2,8 +2,8 @@
 
   List.Controller =
     setupNav: ->
-      navView = new List.Nav({collection: @getLinks})
-      App.nav.show(navView)
+      navView = new List.Nav({collection: @getLinks()})
+      App.navRegion.show(navView)
 
     getLinks: ->
       App.request "nav:entities"

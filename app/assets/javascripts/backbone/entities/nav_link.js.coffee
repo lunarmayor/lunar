@@ -1,4 +1,4 @@
-@Lunar.module "Entities", (Entities, App,) ->
+@Lunar.module "Entities", (Entities, App) ->
 
   class Entities.NavLink extends Entities.Model
 

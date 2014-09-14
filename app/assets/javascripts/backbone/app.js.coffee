@@ -1,4 +1,4 @@
-@Lunar do (Backbone, Marionette) ->
+@Lunar = do (Backbone, Marionette) ->
 
   App = new Marionette.Application
 
@@ -9,8 +9,10 @@
   App.addInitializer ->
     App.module('Nav').start()
 
-  App.on "initialize: after", (options) ->
+
+  App.on "initialize:after", (options) ->
     if Backbone.history
       Backbone.history.start()
+
 
   App

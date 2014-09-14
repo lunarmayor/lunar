@@ -1,2 +1,2 @@
-<div class="brand"></div>
+<div class="brand"><%- @imageTag('avatar.png')%></div>
 <ul></ul>

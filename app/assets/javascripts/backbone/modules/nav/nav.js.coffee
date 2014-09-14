@@ -1,4 +1,4 @@
-@Lunar.module "Nav", Nav ->
+@Lunar.module "Nav", (Nav) ->
 
   API =
     setupNav: ->
