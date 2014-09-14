@@ -12,8 +12,10 @@
     setupGraphic: ->
       @setupScene()
       @setupCamera()
+      @setupOrbitControls()
       @setupRenderer()
       @addCube()
+      @animate()
 
     setupScene: ->
       @scene = new THREE.Scene()
@@ -21,11 +23,15 @@
     setupCamera: ->
       @camera = new THREE.PerspectiveCamera( 75, @ui.container.width() / window.innerHeight, 0.1, 1000 )
 
+    setupOrbitControls: ->
+      @controls = new THREE.OrbitControls( @camera )
+
     setupRenderer: ->
       @renderer = new THREE.WebGLRenderer()
       @renderer.setSize( (window.innerWidth - 170), window.innerHeight)
       @renderer.setClearColor('rgb(27, 27, 27)', 1)
       @ui.container.append( @renderer.domElement )
+
 
     addCube: ->
       texture = THREE.ImageUtils.loadTexture('assets/eye.png');
@@ -38,7 +44,6 @@
       geometry = new THREE.IcosahedronGeometry( 40, 1 )
       geometry2 = new THREE.IcosahedronGeometry( 40, 1 )
 
-
       darkMaterial = new THREE.MeshBasicMaterial( { color: 'rgb(226, 30, 31)' } )
       wireframeMaterial = new THREE.MeshBasicMaterial( { color: 'rgb(0,0,0)', wireframe: true, transparent: false, wireframeLinewidth: 2 } )
       multiMaterial = [darkMaterial, wireframeMaterial ]
@@ -47,7 +52,6 @@
       @scene.add(@cube2)
       @scene.add( @cube)
       @camera.position.z = 200
-      @animate()
 
 
     animate: =>
