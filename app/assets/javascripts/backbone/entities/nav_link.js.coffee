@@ -8,11 +8,11 @@
   API =
     getNavLinks: ->
       new Entities.NavLinkCollection [
-        { name: "images" }
-        { name: "video" }
-        { name: "text" }
-        { name: "web" }
+        { name: "images", url: '/images' }
+        { name: "video", url: '/video' }
+        { name: "text", url: '/text' }
+        { name: "web", url: '/web' }
       ]
 
-  App.reqres.addHandler "nav:entities", ->
+  App.reqres.setHandler "nav:entities", ->
     API.getNavLinks()

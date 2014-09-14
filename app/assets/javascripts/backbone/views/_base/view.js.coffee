@@ -9,3 +9,4 @@
 
       imageTag: (fileName) ->
         "<img src='assets/#{fileName}'/>"
+
