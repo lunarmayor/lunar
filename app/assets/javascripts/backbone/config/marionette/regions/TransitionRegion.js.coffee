@@ -49,7 +49,10 @@ do (Backbone, Marionette) ->
         view.triggerMethod "before:show"
       else
         @triggerMethod.call view, "before:show"
+
+      view.el.style.opacity = 0 if isChangingView
       @attachHtml view
+      view.$el.animate({opacity: 1}, 400) if isChangingView
       @currentView = view
 
       @triggerMethod "swap", view  if isChangingView
