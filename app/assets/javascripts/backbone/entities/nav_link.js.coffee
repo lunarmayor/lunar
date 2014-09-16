@@ -9,7 +9,7 @@
     getNavLinks: ->
       new Entities.NavLinkCollection [
         { name: "images", url: '/images' }
-        { name: "video", url: '/video' }
+        { name: "video", url: '/videos' }
         { name: "text", url: '/text' }
         { name: "web", url: '/web' }
       ]

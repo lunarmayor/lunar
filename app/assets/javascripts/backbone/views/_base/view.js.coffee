@@ -4,8 +4,8 @@
 	
 		templateHelpers: ->
 			
-			linkToVine: (url, width = null) ->
-        "<iframe class='vine-embed' src='#{url}' width='#{width || 600}' height='#{width || 600}' frameborder='0'></iframe>"
+			urlToVine: (url, width = null) ->
+        "<iframe class='vine-embed' height='700' width='700' src='#{url}' frameborder='0'></iframe>"
 
       imageTag: (fileName) ->
         "<img src='assets/#{fileName}'/>"
