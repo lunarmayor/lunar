@@ -15,23 +15,12 @@ do (Backbone, Marionette) ->
       _shouldDestroyView = not preventDestroy and isDifferentView
       if  _shouldDestroyView
         if !_.isUndefined(@currentView)
-          #@currentView.$el.on('transitionend webkitTransitionEnd oTransitionEnd otransitionend', =>
-           # @empty()
-            #@showView(view, isChangingView) if isDifferentView or forceShow
-          #)
-
           @currentView.$el.animate({opacity: 0}, 300, =>
             @empty()
             @showView(view, isChangingView) if isDifferentView or forceShow
           )
-
-          if (@currentView.el.classList)
-            @currentView.el.classList.add('is-exiting')
-          else
-            @currentView.el.className += ' ' + 'is-exiting'
         else
           @showView(view, isChangingView) if isDifferentView or forceShow
-
       else
         @
 
