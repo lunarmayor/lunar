@@ -17,6 +17,7 @@ do (Backbone, Marionette) ->
         if !_.isUndefined(@currentView)
           @currentView.$el.animate({opacity: 0}, 300, =>
             @empty()
+            $('#main').scrollTop(0) #use scrollable conatiner instead
             @showView(view, isChangingView) if isDifferentView or forceShow
           )
         else
