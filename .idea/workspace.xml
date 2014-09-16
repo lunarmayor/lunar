@@ -22,31 +22,31 @@
     <favorites_list name="lunar" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.50914633">
+    <splitter split-orientation="horizontal" split-proportion="0.59185183">
       <split-first>
         <leaf>
           <file leaf-file-name="layout.js.coffee" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/views/_base/layout.js.coffee">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="2" column="50" selection-start="118" selection-end="118" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
+                <state line="2" column="50" selection-start="118" selection-end="118" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="120">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="main.css.sass" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="main.css.sass" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/main.css.sass">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="56" column="0" selection-start="919" selection-end="919" vertical-scroll-proportion="1.2765957" vertical-offset="0" max-vertical-offset="945">
+                <state line="13" column="0" selection-start="236" selection-end="236" vertical-scroll-proportion="-8.125" vertical-offset="0" max-vertical-offset="1185">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="TransitionRegion.js.coffee" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="TransitionRegion.js.coffee" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/config/marionette/regions/TransitionRegion.js.coffee">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="22" column="55" selection-start="982" selection-end="982" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1005">
+                <state line="55" column="6" selection-start="2108" selection-end="2108" vertical-scroll-proportion="0.7276029" vertical-offset="224" max-vertical-offset="1050">
                   <folding />
                 </state>
               </provider>
@@ -55,7 +55,7 @@
           <file leaf-file-name="images.js.coffee" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/images/images.js.coffee">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="12" column="21" selection-start="301" selection-end="301" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+                <state line="12" column="21" selection-start="301" selection-end="301" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="270">
                   <folding />
                 </state>
               </provider>
@@ -73,7 +73,7 @@
           <file leaf-file-name="images.jst.eco" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/images/list/templates/images.jst.eco">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="1" column="10" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
                   <folding />
                 </state>
               </provider>
@@ -82,7 +82,7 @@
           <file leaf-file-name="images_controller.js.coffee" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/images/list/images_controller.js.coffee">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="4" column="39" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+                <state line="4" column="39" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="210">
                   <folding />
                 </state>
               </provider>
@@ -91,7 +91,7 @@
           <file leaf-file-name="images_view.js.coffee" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/images/list/images_view.js.coffee">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="4" column="0" selection-start="154" selection-end="154" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+                <state line="4" column="0" selection-start="153" selection-end="153" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="210">
                   <folding />
                 </state>
               </provider>
@@ -100,7 +100,7 @@
           <file leaf-file-name="nav_link.js.coffee" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/entities/nav_link.js.coffee">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="17" column="0" selection-start="466" selection-end="466" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
+                <state line="17" column="0" selection-start="466" selection-end="466" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="345">
                   <folding />
                 </state>
               </provider>
@@ -109,7 +109,7 @@
           <file leaf-file-name="view.js.coffee" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/views/_base/view.js.coffee">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="10" column="41" selection-start="361" selection-end="361" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+                <state line="10" column="41" selection-start="361" selection-end="361" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="270">
                   <folding />
                 </state>
               </provider>
@@ -119,10 +119,10 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="images_view.js.coffee" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="images_view.js.coffee" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/images/list/images_view.js.coffee">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="8" column="41" selection-start="319" selection-end="319" vertical-scroll-proportion="0.17266187" vertical-offset="0" max-vertical-offset="695">
+                <state line="8" column="17" selection-start="277" selection-end="277" vertical-scroll-proportion="0.1494396" vertical-offset="0" max-vertical-offset="803">
                   <folding />
                 </state>
               </provider>
@@ -131,7 +131,7 @@
           <file leaf-file-name="routes.rb" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/config/routes.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="3" column="3" selection-start="109" selection-end="109" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
+                <state line="3" column="3" selection-start="109" selection-end="109" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="135">
                   <folding />
                 </state>
               </provider>
@@ -140,7 +140,7 @@
           <file leaf-file-name="app.js.coffee" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/app.js.coffee">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="15" column="37" selection-start="396" selection-end="396" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
+                <state line="15" column="37" selection-start="396" selection-end="396" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="435">
                   <folding />
                 </state>
               </provider>
@@ -149,7 +149,7 @@
           <file leaf-file-name="image.js.coffee" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/entities/image.js.coffee">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="12" column="32" selection-start="346" selection-end="346" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+                <state line="12" column="32" selection-start="346" selection-end="346" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="360">
                   <folding />
                 </state>
               </provider>
@@ -158,7 +158,7 @@
           <file leaf-file-name="graphic_controller.js.coffee" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/graphic/art/graphic_controller.js.coffee">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="5" column="21" selection-start="143" selection-end="143" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
+                <state line="5" column="21" selection-start="143" selection-end="143" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="165">
                   <folding />
                 </state>
               </provider>
@@ -167,7 +167,7 @@
           <file leaf-file-name="graphic_view.js.coffee" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/graphic/art/graphic_view.js.coffee">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="44" column="0" selection-start="1211" selection-end="1211" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1065">
+                <state line="44" column="0" selection-start="1211" selection-end="1211" vertical-scroll-proportion="0.0" vertical-offset="660" max-vertical-offset="1065">
                   <folding />
                 </state>
               </provider>
@@ -176,7 +176,7 @@
           <file leaf-file-name="list_controller.js.coffee" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/nav/list/list_controller.js.coffee">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="3" column="4" selection-start="66" selection-end="66" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
+                <state line="3" column="4" selection-start="66" selection-end="66" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="345">
                   <folding />
                 </state>
               </provider>
@@ -185,7 +185,7 @@
           <file leaf-file-name="list_view.js.coffee" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/nav/list/list_view.js.coffee">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="13" column="42" selection-start="423" selection-end="423" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
+                <state line="13" column="42" selection-start="423" selection-end="423" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="300">
                   <folding />
                 </state>
               </provider>
@@ -194,7 +194,7 @@
           <file leaf-file-name="nav.js.coffee" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/nav/nav.js.coffee">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="4" column="32" selection-start="88" selection-end="88" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
+                <state line="4" column="32" selection-start="88" selection-end="88" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="195">
                   <folding />
                 </state>
               </provider>
@@ -244,7 +244,6 @@
         <option value="$PROJECT_DIR$/app/assets/javascripts/backbone/modules/nav/nav.js.coffee" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/backbone/modules/images/list/templates/_images.jst.eco" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/backbone/modules/images/images.js.coffee" />
-        <option value="$PROJECT_DIR$/app/assets/javascripts/backbone/config/marionette/regions/TransitionRegion.js.coffee" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/backbone/modules/nav/list/list_controller.js.coffee" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/backbone/modules/nav/list/list_view.js.coffee" />
@@ -252,17 +251,18 @@
         <option value="$PROJECT_DIR$/app/assets/javascripts/backbone/modules/images/list/images_controller.js.coffee" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/backbone/modules/images/list/templates/_image.jst.eco" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/backbone/entities/image.js.coffee" />
-        <option value="$PROJECT_DIR$/app/assets/javascripts/backbone/modules/images/list/images_view.js.coffee" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/backbone/modules/images/list/templates/images.jst.eco" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/backbone/modules/images/list/images_view.js.coffee" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/main.css.sass" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/backbone/config/marionette/regions/TransitionRegion.js.coffee" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1983" />
-    <option name="y" value="22" />
-    <option name="width" value="1474" />
-    <option name="height" value="887" />
+    <option name="x" value="2067" />
+    <option name="y" value="67" />
+    <option name="width" value="1705" />
+    <option name="height" value="970" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -637,15 +637,11 @@
               <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="RailsProjectView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -810,7 +806,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1983" y="22" width="1474" height="887" extended-state="0" />
+    <frame x="2067" y="67" width="1705" height="970" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -818,7 +814,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31284916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18821406" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -826,11 +822,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -848,9 +844,9 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.085195534" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -872,11 +868,30 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/nav/list/list_controller.js.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="24" selection-start="650" selection-end="650" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="420">
+        <state line="3" column="4" selection-start="66" selection-end="66" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="345">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/nav/list/list_view.js.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="42" selection-start="423" selection-end="423" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="300">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/nav/nav.js.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="32" selection-start="88" selection-end="88" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="195">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="24" selection-start="650" selection-end="650" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="420" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/main.css.sass">
@@ -895,9 +910,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/graphic/graphic.js.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="20" selection-start="188" selection-end="188" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="270">
-          <folding />
-        </state>
+        <state line="7" column="20" selection-start="188" selection-end="188" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="270" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/nav/list/list_controller.js.coffee">
@@ -930,9 +943,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/graphic/art/templates/graphic.jst.eco">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="34" selection-start="34" selection-end="34" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
-          <folding />
-        </state>
+        <state line="0" column="34" selection-start="34" selection-end="34" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/nav/nav.js.coffee">
@@ -961,16 +972,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/entities/_base/collections.js.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="55" selection-start="111" selection-end="111" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
-          <folding />
-        </state>
+        <state line="2" column="55" selection-start="111" selection-end="111" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/entities/_base/models.js.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="45" selection-start="101" selection-end="101" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
-          <folding />
-        </state>
+        <state line="2" column="45" selection-start="101" selection-end="101" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
@@ -985,9 +992,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="16" selection-start="558" selection-end="558" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
-          <folding />
-        </state>
+        <state line="12" column="16" selection-start="558" selection-end="558" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/nav/list/templates/nav.jst.eco">
@@ -997,39 +1002,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/views/_base/itemview.js.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="6" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
-          <folding />
-        </state>
+        <state line="0" column="6" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/graphic/art/templates/graphic.jst.eco">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="34" selection-start="34" selection-end="34" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
-          <folding />
-        </state>
+        <state line="0" column="34" selection-start="34" selection-end="34" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/lib/OrbitControls.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="55" selection-start="1463" selection-end="1463" vertical-scroll-proportion="-23.076923" vertical-offset="0" max-vertical-offset="9795">
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
+        <state line="40" column="55" selection-start="1463" selection-end="1463" vertical-scroll-proportion="-23.076923" vertical-offset="0" max-vertical-offset="9795" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="3" selection-start="681" selection-end="681" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
-          <folding />
-        </state>
+        <state line="16" column="3" selection-start="681" selection-end="681" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/views/_base/collectionview.js.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="36" selection-start="165" selection-end="165" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
-          <folding />
-        </state>
+        <state line="3" column="36" selection-start="165" selection-end="165" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/lib/marionette.js">
@@ -1043,37 +1036,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/nav/list/templates/_nav_link.jst.eco">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="10" selection-start="10" selection-end="10" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
-          <folding />
-        </state>
+        <state line="0" column="10" selection-start="10" selection-end="10" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/config/marionette/renderer.js.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="12" selection-start="173" selection-end="173" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
-          <folding />
-        </state>
+        <state line="4" column="12" selection-start="173" selection-end="173" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/views/_base/compositeview.js.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="60" selection-start="128" selection-end="128" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
-          <folding />
-        </state>
+        <state line="2" column="60" selection-start="128" selection-end="128" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/lib/backbone.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="252" selection-end="252" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="24210">
-          <folding />
-        </state>
+        <state line="6" column="0" selection-start="252" selection-end="252" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="24210" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/graphic/graphic.js.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="302" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="302" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/routes.rb">
@@ -1114,13 +1097,6 @@
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/nav/list/list_controller.js.coffee">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="4" selection-start="66" selection-end="66" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/config/marionette/regions/TransitionRegion.js.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="55" selection-start="982" selection-end="982" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1005">
           <folding />
         </state>
       </provider>
@@ -1183,21 +1159,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/images/list/templates/images.jst.eco">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="10" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/main.css.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="0" selection-start="919" selection-end="919" vertical-scroll-proportion="1.2765957" vertical-offset="0" max-vertical-offset="945">
+        <state line="13" column="0" selection-start="236" selection-end="236" vertical-scroll-proportion="-8.125" vertical-offset="0" max-vertical-offset="1185">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/images/list/images_view.js.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="41" selection-start="319" selection-end="319" vertical-scroll-proportion="0.17266187" vertical-offset="0" max-vertical-offset="695">
+        <state line="4" column="0" selection-start="153" selection-end="153" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/config/marionette/regions/TransitionRegion.js.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="6" selection-start="2108" selection-end="2108" vertical-scroll-proportion="0.7276029" vertical-offset="224" max-vertical-offset="1050">
           <folding />
         </state>
       </provider>
