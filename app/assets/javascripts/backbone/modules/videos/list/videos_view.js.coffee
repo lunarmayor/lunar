@@ -9,4 +9,4 @@
     tagName: 'ul'
 
     onShow: ->
-      @$el.append("<script async src='//platform.vine.co/static/scripts/embed.js' charset='utf-8'></script>")
+      @$el.prepend("<script async src='//platform.vine.co/static/scripts/embed.js' charset='utf-8'></script>")
