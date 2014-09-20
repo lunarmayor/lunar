@@ -22,24 +22,15 @@
     <favorites_list name="lunar" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.7986627">
+    <splitter split-orientation="horizontal" split-proportion="0.19672132">
       <split-first>
         <leaf>
-          <file leaf-file-name="layout.js.coffee" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/views/_base/layout.js.coffee">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="2" column="50" selection-start="118" selection-end="118" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file leaf-file-name="main.css.sass" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/main.css.sass">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="30" column="0" selection-start="502" selection-end="502" vertical-scroll-proportion="-0.625" vertical-offset="435" max-vertical-offset="1245">
+                <state line="64" column="0" selection-start="1045" selection-end="1045" vertical-scroll-proportion="-40.0" vertical-offset="0" max-vertical-offset="1275">
                   <folding>
-                    <marker date="1410831907000" expanded="true" signature="243:290" placeholder="..." />
+                    <marker date="1411182855000" expanded="true" signature="1007:1045" placeholder="..." />
                   </folding>
                 </state>
               </provider>
@@ -48,7 +39,16 @@
           <file leaf-file-name="TransitionRegion.js.coffee" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/config/marionette/regions/TransitionRegion.js.coffee">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="17" column="44" selection-start="757" selection-end="757" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="900">
+                <state line="6" column="46" selection-start="271" selection-end="271" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="900">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="graphic.js.coffee" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/graphic/graphic.js.coffee">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="12" column="21" selection-start="302" selection-end="302" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
                   <folding />
                 </state>
               </provider>
@@ -66,7 +66,7 @@
           <file leaf-file-name="images_controller.js.coffee" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/images/list/images_controller.js.coffee">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="8" column="34" selection-start="237" selection-end="237" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+                <state line="8" column="34" selection-start="237" selection-end="237" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="210">
                   <folding />
                 </state>
               </provider>
@@ -84,7 +84,7 @@
           <file leaf-file-name="view.js.coffee" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/views/_base/view.js.coffee">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="11" column="0" selection-start="337" selection-end="337" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+                <state line="11" column="0" selection-start="337" selection-end="337" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="270">
                   <folding>
                     <marker date="1410830991000" expanded="true" signature="129:336" placeholder="..." />
                   </folding>
@@ -92,22 +92,22 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="videos_view.js.coffee" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="videos_view.js.coffee" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/videos/list/videos_view.js.coffee">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="11" column="106" selection-start="400" selection-end="400" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+                <state line="11" column="18" selection-start="312" selection-end="312" vertical-scroll-proportion="0.264" vertical-offset="0" max-vertical-offset="625">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/README.md">
               <provider editor-type-id="MarkdownPreviewEditor">
                 <state />
               </provider>
               <provider selected="true" editor-type-id="text-editor">
-                <state line="16" column="58" selection-start="571" selection-end="571" vertical-scroll-proportion="0.30264816" vertical-offset="0" max-vertical-offset="793">
+                <state line="16" column="58" selection-start="571" selection-end="571" vertical-scroll-proportion="-8.888889" vertical-offset="0" max-vertical-offset="330">
                   <folding />
                 </state>
               </provider>
@@ -130,10 +130,7 @@
             <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/images/list/images_view.js.coffee">
               <provider selected="true" editor-type-id="text-editor">
                 <state line="0" column="0" selection-start="0" selection-end="277" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
-                  <folding>
-                    <marker date="1410826439000" expanded="true" signature="46:277" placeholder="..." />
-                    <marker date="1410826439000" expanded="true" signature="211:277" placeholder="..." />
-                  </folding>
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -141,7 +138,7 @@
           <file leaf-file-name="routes.rb" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/config/routes.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="4" column="3" selection-start="150" selection-end="150" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
+                <state line="4" column="3" selection-start="150" selection-end="150" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="150">
                   <folding />
                 </state>
               </provider>
@@ -150,7 +147,7 @@
           <file leaf-file-name="image.js.coffee" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/entities/image.js.coffee">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="28" column="24" selection-start="911" selection-end="911" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645">
+                <state line="28" column="24" selection-start="911" selection-end="911" vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="645">
                   <folding>
                     <marker date="1410904965000" expanded="true" signature="242:1122" placeholder="[...]" />
                   </folding>
@@ -161,7 +158,7 @@
           <file leaf-file-name="graphic_controller.js.coffee" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/graphic/art/graphic_controller.js.coffee">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="5" column="21" selection-start="143" selection-end="143" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="165">
+                <state line="5" column="21" selection-start="143" selection-end="143" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
                   <folding />
                 </state>
               </provider>
@@ -170,16 +167,7 @@
           <file leaf-file-name="graphic_view.js.coffee" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/graphic/art/graphic_view.js.coffee">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="44" column="0" selection-start="1211" selection-end="1211" vertical-scroll-proportion="0.0" vertical-offset="660" max-vertical-offset="1065">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="list_controller.js.coffee" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/nav/list/list_controller.js.coffee">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="3" column="4" selection-start="66" selection-end="66" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="345">
+                <state line="34" column="0" selection-start="899" selection-end="899" vertical-scroll-proportion="0.0" vertical-offset="219" max-vertical-offset="1065">
                   <folding />
                 </state>
               </provider>
@@ -188,16 +176,25 @@
           <file leaf-file-name="videos.js.coffee" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/videos/videos.js.coffee">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="11" column="18" selection-start="276" selection-end="276" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+                <state line="12" column="21" selection-start="301" selection-end="301" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="videos_controller.js.coffee" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="vine-embedd.js" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/app/assets/javascripts/lib/vine-embedd.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="25" column="30" selection-start="1139" selection-end="1139" vertical-scroll-proportion="0.46353522" vertical-offset="0" max-vertical-offset="855">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="videos_controller.js.coffee" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/videos/list/videos_controller.js.coffee">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="8" column="34" selection-start="237" selection-end="237" vertical-scroll-proportion="0.18575852" vertical-offset="0" max-vertical-offset="646">
+                <state line="8" column="29" selection-start="232" selection-end="232" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
                   <folding />
                 </state>
               </provider>
@@ -206,7 +203,7 @@
           <file leaf-file-name="nav_link.js.coffee" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/entities/nav_link.js.coffee">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="15" column="0" selection-start="423" selection-end="423" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
+                <state line="15" column="0" selection-start="423" selection-end="423" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="345">
                   <folding />
                 </state>
               </provider>
@@ -215,7 +212,7 @@
           <file leaf-file-name="_video.jst.eco" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/videos/list/templates/_video.jst.eco">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="1" column="0" selection-start="24" selection-end="24" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+                <state line="1" column="0" selection-start="24" selection-end="24" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="105">
                   <folding />
                 </state>
               </provider>
@@ -270,23 +267,24 @@
         <option value="$PROJECT_DIR$/app/assets/javascripts/backbone/modules/images/list/templates/images.jst.eco" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/backbone/modules/images/list/images_view.js.coffee" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/backbone/modules/videos/list/videos_controller.js.coffee" />
-        <option value="$PROJECT_DIR$/app/assets/javascripts/backbone/modules/videos/videos.js.coffee" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/backbone/entities/nav_link.js.coffee" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/backbone/views/_base/view.js.coffee" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/backbone/config/marionette/regions/TransitionRegion.js.coffee" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/main.css.sass" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/backbone/entities/image.js.coffee" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/backbone/entities/video.js.coffee" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/backbone/modules/videos/list/templates/_video.jst.eco" />
-        <option value="$PROJECT_DIR$/app/assets/javascripts/backbone/modules/videos/list/videos_view.js.coffee" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/main.css.sass" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/backbone/modules/videos/videos.js.coffee" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/backbone/modules/videos/list/videos_view.js.coffee" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/lib/vine-embedd.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="101" />
-    <option name="y" value="22" />
+    <option name="x" value="153" />
+    <option name="y" value="43" />
     <option name="width" value="1705" />
     <option name="height" value="966" />
   </component>
@@ -316,6 +314,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="RailsProjectView" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -467,181 +467,9 @@
               <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javascripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="backbone" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lunar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lunar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javascripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="backbone" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="videos" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lunar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lunar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javascripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="backbone" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="videos" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="list" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lunar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lunar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javascripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="backbone" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="videos" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="list" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lunar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lunar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javascripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="backbone" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lunar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lunar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="RailsProjectView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -811,7 +639,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="101" y="22" width="1705" height="966" extended-state="0" />
+    <frame x="153" y="43" width="1705" height="966" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -819,7 +647,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19061936" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19302465" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -849,9 +677,9 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.085195534" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -873,13 +701,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/app.js.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="29" selection-start="192" selection-end="192" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="345">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/graphic/graphic.js.coffee">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="20" selection-start="188" selection-end="188" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="270" />
@@ -901,9 +722,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/nav/list/list_view.js.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="295" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="295" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/graphic/art/graphic_view.js.coffee">
@@ -920,9 +739,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/nav/nav.js.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="133" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="133" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
@@ -1023,23 +840,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/graphic/graphic.js.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="302" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/graphic/art/graphic_view.js.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="0" selection-start="1211" selection-end="1211" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1065">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/nav/nav.js.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="32" selection-start="88" selection-end="88" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
-          <folding />
-        </state>
+        <state line="4" column="32" selection-start="88" selection-end="88" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/nav/list/list_controller.js.coffee">
@@ -1051,30 +854,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/nav/list/list_view.js.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="42" selection-start="423" selection-end="423" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
-          <folding />
-        </state>
+        <state line="13" column="42" selection-start="423" selection-end="423" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/images/list/templates/_image.jst.eco">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="27" selection-start="27" selection-end="27" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="695">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/graphic/art/graphic_controller.js.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="21" selection-start="143" selection-end="143" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
-          <folding />
-        </state>
+        <state line="0" column="27" selection-start="27" selection-end="27" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="695" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/images/list/templates/images.jst.eco">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/views/_base/layout.js.coffee">
@@ -1084,23 +874,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/images/images.js.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="301" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="799">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/images/list/images_view.js.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="153" selection-end="153" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="210">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/videos/videos.js.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="18" selection-start="276" selection-end="276" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+        <state line="0" column="0" selection-start="0" selection-end="277" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
           <folding />
         </state>
       </provider>
@@ -1121,39 +897,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/config/marionette/regions/TransitionRegion.js.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="44" selection-start="757" selection-end="757" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="900">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/app.js.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="30" selection-start="489" selection-end="489" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
-          <folding />
-        </state>
+        <state line="19" column="30" selection-start="489" selection-end="489" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="3" selection-start="150" selection-end="150" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/main.css.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="0" selection-start="502" selection-end="502" vertical-scroll-proportion="-0.625" vertical-offset="435" max-vertical-offset="1245">
-          <folding>
-            <marker date="1410831907000" expanded="true" signature="243:290" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/entities/video.js.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="60" selection-start="1282" selection-end="1282" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
           <folding />
         </state>
       </provider>
@@ -1181,26 +932,91 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="58" selection-start="571" selection-end="571" vertical-scroll-proportion="-8.888889" vertical-offset="0" max-vertical-offset="330">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/entities/video.js.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="60" selection-start="1282" selection-end="1282" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/images/images.js.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="301" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="799">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/config/marionette/regions/TransitionRegion.js.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="46" selection-start="271" selection-end="271" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="900">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/graphic/art/graphic_controller.js.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="21" selection-start="143" selection-end="143" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/graphic/graphic.js.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="21" selection-start="302" selection-end="302" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/graphic/art/graphic_view.js.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="0" selection-start="899" selection-end="899" vertical-scroll-proportion="0.0" vertical-offset="219" max-vertical-offset="1065">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/main.css.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="0" selection-start="1045" selection-end="1045" vertical-scroll-proportion="-40.0" vertical-offset="0" max-vertical-offset="1275">
+          <folding>
+            <marker date="1411182855000" expanded="true" signature="1007:1045" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/videos/list/videos_controller.js.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="34" selection-start="237" selection-end="237" vertical-scroll-proportion="0.18575852" vertical-offset="0" max-vertical-offset="646">
+        <state line="8" column="29" selection-start="232" selection-end="232" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/videos/list/videos_view.js.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="106" selection-start="400" selection-end="400" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+        <state line="11" column="18" selection-start="312" selection-end="312" vertical-scroll-proportion="0.264" vertical-offset="0" max-vertical-offset="625">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbone/modules/videos/videos.js.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="58" selection-start="571" selection-end="571" vertical-scroll-proportion="0.30264816" vertical-offset="0" max-vertical-offset="793">
+        <state line="12" column="21" selection-start="301" selection-end="301" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/lib/vine-embedd.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="30" selection-start="1139" selection-end="1139" vertical-scroll-proportion="0.46353522" vertical-offset="0" max-vertical-offset="855">
           <folding />
         </state>
       </provider>
