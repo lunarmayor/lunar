@@ -28,7 +28,10 @@
 
     setupRenderer: ->
       @renderer = new THREE.WebGLRenderer()
-      @renderer.setSize( (window.innerWidth - 170), window.innerHeight)
+      if window.innerWidth < 782
+        @renderer.setSize(window.innerWidth, window.innerHeight)
+      else
+        @renderer.setSize( (window.innerWidth - 170), window.innerHeight)
       @renderer.setClearColor('rgb(27, 27, 27)', 1)
       @ui.container.append( @renderer.domElement )
 

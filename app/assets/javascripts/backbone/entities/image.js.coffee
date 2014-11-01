@@ -21,7 +21,6 @@
         {fileName: 'darkme.jpg'},
         {fileName: 'exploding-head.png'},
         {fileName: 'fractal.jpg'},
-        {fileName: 'gif.gif'},
         {fileName: 'gpu-cube.gif'},
         {fileName: 'illum.gif'},
         {fileName: 'jumping.gif'}

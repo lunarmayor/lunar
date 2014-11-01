@@ -8,11 +8,10 @@
    API = 
      getWebsites: ->
        new Entities.WebsiteCollection [
-         {title: 'Howard'},
-         {title: 'Glitch Mirror'},
-         {title: 'Flatterbook'},
-         {title: 'Random Gem'},
-         {title: 'Eye Cubes'}
+         {title: 'Howard', fileName: 'howard.png', url: 'http://www.howardapp.com'},
+         {title: 'Glitch Mirror', fileName: 'glitchmirror.png', url: 'http://glitchmirror.herokuapp.com'},
+         {title: 'Flatterbook', fileName: 'flatterbook.png', url: 'http://flatterbook.com'},
+         {title: 'Random Gem', fileName: 'random-gem.png', url: 'http://random-gem.herokuapp.com'}
 
        ]
 

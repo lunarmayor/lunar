@@ -8,9 +8,8 @@
   API =
     getNavLinks: ->
       new Entities.NavLinkCollection [
-        { name: "images", url: '/images' }
         { name: "video", url: '/videos' }
-        { name: "text", url: '/text' }
+        { name: "images", url: '/images' }
         { name: "web", url: '/web' }
       ]
 

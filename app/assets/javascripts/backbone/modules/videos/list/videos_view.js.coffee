@@ -9,4 +9,10 @@
     tagName: 'ul'
 
     onShow: ->
+      @$el.find('iframe').unwrap()
+      @$el.css('overflow', 'auto')
+      $("#main").css('overflow', 'initial')
       @$el.prepend("<script async src='//platform.vine.co/static/scripts/embed.js' charset='utf-8'></script>")
+
+    onDestroy: ->
+      $('#main').css('overflow', 'auto')
