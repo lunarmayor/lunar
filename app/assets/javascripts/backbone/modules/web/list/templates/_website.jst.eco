@@ -1,2 +1,2 @@
-<%= @title %>
+<div class="website-title"><%= @title %></div>
 <%- @imageTag(@fileName) %>

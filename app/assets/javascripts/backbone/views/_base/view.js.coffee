@@ -8,5 +8,6 @@
         "<iframe class='vine-embed' height='600' width='600' src='#{url}' frameborder='0'></iframe>"
 
       imageTag: (fileName) ->
-        "<img src='assets/#{fileName}'/>"
+        console.log(fileName)
+        "<img src='#{window.image_path(fileName)}'/>"
 
